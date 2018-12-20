@@ -4,10 +4,13 @@
   font-family: 'Bree Serif', serif;
   line-height: 1.8; 
 }
+.navbar-burger{
+  height: auto !important;
+}
 .navbar-item img {
   max-height: 3.0rem;
 }
-div.bor{
+body{
   border: 10px solid #0e0369;
   z-index: 31;
   margin: 0px;
@@ -126,6 +129,7 @@ div.bor{
   width: 150px;
   height: 150px;
   border-radius: 50%;
+  border:5px solid #0e0369;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover; 
