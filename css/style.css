@@ -4,6 +4,10 @@
   font-family: 'Bree Serif', serif;
   line-height: 1.8; 
 }
+.navbar{
+  border: 10px solid #0e0369;
+  border-bottom: none;
+}
 .navbar-burger{
   height: auto !important;
 }
